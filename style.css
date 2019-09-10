@@ -1,0 +1,33 @@
+
+.jumbotron{
+    margin: auto;
+    display: flex;
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+.mx-auto{
+    margin: auto;
+    width: 600px;
+}
+
+.btn{
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.btn-outline-primary{
+    border-color: black;
+    color: black;
+    background-color: white;
+}
+
+.btn-outline-primary:hover{
+    background-color: dimgray;
+    border-color:whitesmoke;
+}
+
+
